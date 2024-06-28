@@ -11,7 +11,10 @@ function App() {
       Will Add everything later
      </p>
      <p>
-     Will Add everything later
+     Nothing here to add
+    </p>
+    <p>
+     Just eat food and sleep you idiot
     </p>
     </div>
   );
